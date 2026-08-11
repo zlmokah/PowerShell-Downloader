@@ -2,6 +2,8 @@
 
 A Windows application that generates a single PowerShell command to download and execute any EXE file from the internet.
 
+<img width="452" height="142" alt="image" src="https://github.com/user-attachments/assets/e5e18f9c-96fa-48aa-9ecf-6b8545d96d67" />
+
 ## What does it do?
 
 1. You select an EXE file
