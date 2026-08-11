@@ -1,4 +1,4 @@
-# IttihadBomber
+# Powershell Command Downloader
 
 A Windows application that generates a single PowerShell command to download and execute any EXE file from the internet.
 
